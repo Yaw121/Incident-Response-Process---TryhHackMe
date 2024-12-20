@@ -1,4 +1,9 @@
-# Incident-Response-Process---TryhHackMe
+### Incident-Response-Process---TryhHackMe
+
+<details><summary><b>Preparation</b></summary>
+
+Preparation in an incident response plan involves establishing policies, assembling a trained response team, and ensuring access to tools and resources. It includes creating playbooks, conducting training and simulations, and maintaining documentation like network diagrams and contact lists. This phase ensures the organization is ready to detect, respond to, and recover from incidents effectively.
+</details>
 
 <details>
   <summary><b>Scenario</b></summary>
