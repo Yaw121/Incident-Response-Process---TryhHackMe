@@ -72,7 +72,7 @@ We can open the link and investigate more about the downloaded file.
 
 The document raises suspicions as it contains a link to a non-existent webpage and, despite its extension suggesting the presence of macros, Microsoft Word does not issue any warnings. This likely indicates that any embedded macro is being executed automatically without user intervention.
 
-### Analysiing the Macro
+### Analysing the Macro
 
 To investigate further, we can view the list of macros in the document by navigating to View > Macros. In the newly opened window, we confirm the presence of a macro. Selecting the macro and clicking the Edit button allows us to examine its contents.
 
